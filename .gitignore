@@ -3,6 +3,8 @@
 
 # katalogi pythona
 __pycache__
+.pytest_cache
+
 
 # pliki tymczasowe
 
