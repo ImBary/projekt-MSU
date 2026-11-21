@@ -30,3 +30,4 @@ def test_wczytaj_dane_brak_plikow(tmp_path, monkeypatch, capsys):
     captured = capsys.readouterr().out
     assert captured == "Brak plików CSV w folderze data.\n"
 
+
